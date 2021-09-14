@@ -12,4 +12,4 @@ in backent folder you will see the all backent apis basically this folder was cr
 in frontend folder you will see all the js files in my component this folder was made in react.
 
 in dump folder you see all data datbase table.
-just make aschema in your mysql named(facebook) and import all these tables. 
+just make aschema in your mysql named(security) and import all these tables. 
